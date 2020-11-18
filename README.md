@@ -2,7 +2,7 @@
 ![image](https://github.com/AbrahamLugoRamirez/AbrahamLugoRamirez/blob/main/dino.gif)
 
 
-- 📫 How to reach me **labrahamdedios@mgmail.com**
+📫 How to reach me **labrahamdedios@mgmail.com**
 
 
 <p align="center">
