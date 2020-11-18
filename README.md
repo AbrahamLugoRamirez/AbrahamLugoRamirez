@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
+
 <!--
 **AbrahamLugoRamirez/AbrahamLugoRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
