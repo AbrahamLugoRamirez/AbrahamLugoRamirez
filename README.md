@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, Im Abraham Lugo Ramirez </h1>
 ![image](https://github.com/AbrahamLugoRamirez/AbrahamLugoRamirez/blob/main/dino.gif)
+
+<h1 align="center">Hi 👋, Im Abraham Lugo Ramirez </h1>
+
 
 
 📫 How to reach me **labrahamdedios@mgmail.com**
