@@ -1,5 +1,4 @@
 ![image](https://github.com/AbrahamLugoRamirez/AbrahamLugoRamirez/blob/main/dino.gif)
-<img width="40" src="https://github.com/AbrahamLugoRamirez/AbrahamLugoRamirez/blob/main/dino.gif">
 
 <h2 align="center">Hi 👋, Im Abraham Lugo Ramirez </h2>
 
