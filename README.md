@@ -1,10 +1,10 @@
 ![image](https://github.com/AbrahamLugoRamirez/AbrahamLugoRamirez/blob/main/dino.gif)
 
-<h1 align="center">Hi 👋, Im Abraham Lugo Ramirez </h1>
+<h2 align="center">Hi 👋, Im Abraham Lugo Ramirez </h2>
 
 
 
-📫 How to reach me **labrahamdedios@gmail.com**
+<h3>📫 How to reach me **labrahamdedios@gmail.com**</h3>
 
 
 <p align="center">
