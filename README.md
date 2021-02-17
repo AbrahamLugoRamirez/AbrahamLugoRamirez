@@ -4,7 +4,7 @@
 
 
 
-📫 How to reach me **labrahamdedios@mgmail.com**
+📫 How to reach me **labrahamdedios@gmail.com**
 
 
 <p align="center">
